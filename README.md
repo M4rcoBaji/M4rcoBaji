@@ -1,9 +1,11 @@
-### Opa eu sou M4rco 👋
+### Hi, i'm M4rco:space_invader:
 
 Here are some ideas to get you started:
 
-- 🔭Iniciante em programação
-- 🌱 Estudando javascript
+- 🤖 i'm programming beginer.
+- 🌱 Learn javascript
+- 👹 Learn C/C++
+- 👹 Learn networks
 
 ##
 <div align="center">
