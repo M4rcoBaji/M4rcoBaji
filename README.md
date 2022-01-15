@@ -14,9 +14,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rco0&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="right" alt="Keisuke-pic" height="150" style="border-radius:50px;" src="http://pa1.narvii.com/7619/f0e54e8369861e390a06db8c6ddaf7884930892dr1-450-393_00.gif">
-</div>  
+  ![wrench](https://user-images.githubusercontent.com/54968908/149630172-f0cef292-342c-430c-a16b-c5a49224f56b.jpg)
 
 ##
   <div> 
