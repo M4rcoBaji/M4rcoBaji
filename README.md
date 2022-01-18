@@ -1,6 +1,6 @@
 ### Hi, i'm M4rco:space_invader:
 
-Here are some ideas to get you started:
+About me:
 
 - 🤖 i'm programming beginer.
 - 🌱 Learn javascript
