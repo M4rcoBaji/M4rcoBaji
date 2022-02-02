@@ -14,7 +14,6 @@ About me:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rco0&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
-  ![wrench](https://user-images.githubusercontent.com/54968908/149630172-f0cef292-342c-430c-a16b-c5a49224f56b.jpg)
 
 ##
   <div> 
