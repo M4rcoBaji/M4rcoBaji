@@ -4,7 +4,7 @@ About me:
 
 - 🤖 i'm programming beginer.
 - 🌱 Learn javascript
-- 👹 Learn Python
+- 👹 Learn Python & C
 - 👹 Learn networks
 
 ##
