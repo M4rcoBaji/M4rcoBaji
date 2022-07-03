@@ -3,8 +3,7 @@
 About me:
 
 - 🤖 i'm programming beginer.
-- 🌱 Learn javascript
-- 👹 Learn Python & C
+- 👹 Learn C
 - 👹 Learn networks
 
 ##
