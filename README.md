@@ -1,4 +1,4 @@
-### Hi, i'm M4rco:space_invader:
+### Hi:space_invader:
 
 About me:
 
