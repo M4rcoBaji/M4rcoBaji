@@ -5,6 +5,7 @@ About me:
 - 🤖 i'm programming beginer.
 - 👹 Learn C
 - 👹 Learn networks
+- :space_invader: Beginner CTF player
 
 ##
 <div align="center">
