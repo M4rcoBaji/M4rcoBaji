@@ -2,7 +2,7 @@
 
 About me:
 
-- 🤖 i'm programming beginer.
+- 🤖 Student cybersecurity
 - 👹 Learn C
 - 👹 Learn networks
 - :space_invader: Beginner CTF player
