@@ -1,7 +1,6 @@
 ### Hi:space_invader:
 
 whoami ?
-- My name is M4rco
 - 🤖 Student cybersecurity
 - 👹 Learn C
 - 👹 Learn networks
