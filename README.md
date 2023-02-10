@@ -11,7 +11,7 @@ whoami ?
   <a href="https://github.com/M4rco0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4rco0&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rco0&layout=compact&langs_count=7&theme=midnight-purple"/>
-    <script src="https://tryhackme.com/badge/607466"></script>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/M4rco.png" alt="TryHackMe">
 </div>
   
 
