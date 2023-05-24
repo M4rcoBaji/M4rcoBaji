@@ -2,7 +2,6 @@
 
 whoami ?
 - 🤖 Student cybersecurity
-- 👹 Learn C
 - 👹 Learn networks
 - :space_invader: Beginner CTF player
 
