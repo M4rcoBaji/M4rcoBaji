@@ -1,10 +1,6 @@
 ### Hi:space_invader:
 
 whoami ?
-- 🤖 Student cybersecurity
-- 👹 Learn networks
-- :space_invader: Beginner CTF player
-
 ##
 <div align="center">
   <a href="https://github.com/M4rco0">
